@@ -39,6 +39,7 @@
 
 
 Reference
+
 [1] Github,"KERASPP" , https://github.com/RossSong/keraspp (2019.12.17)
 
 [2] Github.io,"케라스 이야기",  https://tykimos.github.io/2017/01/27/Keras_Talk/ (2019.12.17)
