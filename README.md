@@ -31,7 +31,9 @@
 5. Result
 - 최종 Loss와 Accuracy는 각각 1.5588648295402527, 0.44600000977516174이 출력됩니다.
 - 각 epoch에서 DNN 모델의 Loss와 Accuracy입니다. 
+
 ![loss](https://user-images.githubusercontent.com/59023413/71105652-45d32a80-2201-11ea-9116-cf4838efe363.png)
+
 ![Acc](https://user-images.githubusercontent.com/59023413/71105653-466bc100-2201-11ea-8b0f-90e3e8707e87.png)
 
 
